@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Game of Thrones(Season8)",
+      "description": "Its a live video streaming",
+      "userId": "111905387232720654550",
+      "id": 3
+    },
+    {
+      "title": "PubG live stream",
+      "description": "A live stream by Anudeep&Team",
+      "userId": "108982618209602473165",
+      "id": 4
+    },
+    {
+      "title": "call Of Duty",
+      "description": "A love stream by Manoj and Anudeep",
+      "userId": "108982618209602473165",
+      "id": 5
+    },
+    {
+      "title": "Game of Thrones",
+      "description": "Its a live streaming",
+      "userId": "108982618209602473165",
+      "id": 6
+    }
+  ]
+}
